@@ -1,0 +1,164 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Ritz",
+      "stars": 5,
+      "price": 350,
+      "image": "/img/hotel1.jpeg",
+      "description": "El Hotel Ritz es un hotel de lujo de 5 estrellas situado en la place Vendôme de París, Francia. Abrió sus puertas el 1 de junio de 1898. Desde su inauguración, el Ritz ha sido un símbolo de la grandeza y el glamour europeos."
+    },
+    {
+      "id": 2,
+      "name": "Hotel Elegance",
+      "stars": 4,
+      "price": 250,
+      "image": "/img/hotel2.jpeg",
+      "description": "El Hotel Elegance es un hotel de 4 estrellas ubicado en el corazón de Barcelona. Ofrecemos comodidad y estilo a precios asequibles."
+    },
+    {
+      "id": 3,
+      "name": "Hotel Paradise",
+      "stars": 5,
+      "price": 450,
+      "image": "/img/hotel3.jpeg",
+      "description": "El Hotel Paradise es un lujoso hotel de 5 estrellas en una isla tropical. Disfruta de playas de arena blanca y aguas cristalinas."
+    },
+    {
+      "id": 4,
+      "name": "Hotel Serenity",
+      "stars": 4,
+      "price": 300,
+      "image": "/img/hotel4.jpeg",
+      "description": "El Hotel Serenity es un refugio tranquilo con 4 estrellas. Te ofrecemos una estancia relajante y rejuvenecedora."
+    },
+    {
+      "id": 5,
+      "name": "Hotel Vista",
+      "stars": 3,
+      "price": 150,
+      "image": "/img/hotel5.jpeg",
+      "description": "El Hotel Vista ofrece vistas panorámicas a las montañas. Disfruta de la belleza natural mientras te relajas en nuestro hotel de 3 estrellas."
+    },
+    {
+      "id": 6,
+      "name": "Hotel Grand",
+      "stars": 5,
+      "price": 400,
+      "image": "/img/hotel6.jpeg",
+      "description": "El Hotel Grand es sinónimo de opulencia y elegancia. Nuestro hotel de 5 estrellas ofrece un servicio excepcional en un entorno majestuoso."
+    },
+    {
+      "id": 7,
+      "name": "Hotel Oasis",
+      "stars": 4,
+      "price": 280,
+      "image": "/img/hotel7.jpeg",
+      "description": "El Hotel Oasis es un retiro de lujo en el desierto. Con 4 estrellas, ofrecemos comodidades excepcionales en un entorno impresionante."
+    },
+    {
+      "id": 8,
+      "name": "Hotel Riverside",
+      "stars": 3,
+      "price": 180,
+      "image": "/img/hotel8.jpeg",
+      "description": "El Hotel Riverside ofrece vistas panorámicas al río. Nuestra ubicación es perfecta para los amantes de la naturaleza y la aventura."
+    },
+    {
+      "id": 9,
+      "name": "Hotel Majestic",
+      "stars": 5,
+      "price": 350,
+      "image": "/img/hotel9.jpeg",
+      "description": "El Hotel Majestic es un símbolo de lujo y elegancia. Con 5 estrellas, ofrecemos una experiencia inigualable en el corazón de la ciudad."
+    },
+    {
+      "id": 10,
+      "name": "Hotel Seaview",
+      "stars": 4,
+      "price": 270,
+      "image": "/img/hotel10.jpeg",
+      "description": "El Hotel Seaview ofrece impresionantes vistas al mar. Disfruta de la serenidad del océano en nuestro hotel de 4 estrellas."
+    },
+    {
+      "id": 11,
+      "name": "Hotel Mountain Lodge",
+      "stars": 3,
+      "price": 200,
+      "image": "/img/hotel11.jpeg",
+      "description": "El Hotel Mountain Lodge es un refugio acogedor en las montañas. Con 3 estrellas, ofrecemos un ambiente cálido y relajante."
+    },
+    {
+      "id": 12,
+      "name": "Hotel Luxor",
+      "stars": 5,
+      "price": 420,
+      "image": "/img/hotel12.jpeg",
+      "description": "El Hotel Luxor es un oasis de lujo en el corazón del desierto. Con 5 estrellas, ofrecemos una experiencia única en el antiguo Egipto."
+    },
+    {
+      "id": 13,
+      "name": "Hotel Cityscape",
+      "stars": 4,
+      "price": 320,
+      "image": "/img/hotel13.jpeg",
+      "description": "El Hotel Cityscape ofrece vistas panorámicas de la ciudad. Nuestra ubicación es perfecta para explorar la metrópolis."
+    },
+    {
+      "id": 14,
+      "name": "Hotel Green Valley",
+      "stars": 3,
+      "price": 170,
+      "image": "/img/hotel14.jpeg",
+      "description": "El Hotel Green Valley es un retiro tranquilo en medio de la naturaleza. Con 3 estrellas, ofrecemos un ambiente relajante."
+    },
+    {
+      "id": 15,
+      "name": "Hotel Oceanfront",
+      "stars": 4,
+      "price": 280,
+      "image": "/img/hotel15.jpeg",
+      "description": "El Hotel Oceanfront ofrece vistas impresionantes al océano. Disfruta de la brisa marina y la relajación en nuestro hotel de 4 estrellas."
+    },
+    {
+      "id": 16,
+      "name": "Hotel Panorama",
+      "stars": 3,
+      "price": 150,
+      "image": "/img/hotel16.jpeg",
+      "description": "El Hotel Panorama ofrece vistas panorámicas a la ciudad. Nuestra ubicación céntrica lo convierte en la elección perfecta para explorar."
+    },
+    {
+      "id": 17,
+      "name": "Hotel Golden Sands",
+      "stars": 5,
+      "price": 500,
+      "image": "/img/hotel17.jpeg",
+      "description": "El Hotel Golden Sands es un resort de 5 estrellas en una playa paradisíaca. Disfruta del lujo y la belleza natural en un solo lugar."
+    },
+    {
+      "id": 18,
+      "name": "Hotel Forest Retreat",
+      "stars": 4,
+      "price": 320,
+      "image": "/img/hotel18.jpeg",
+      "description": "El Hotel Forest Retreat es un refugio en medio del bosque. Con 4 estrellas, ofrecemos paz y tranquilidad en un entorno natural."
+    },
+    {
+      "id": 19,
+      "name": "Hotel Skyline",
+      "stars": 3,
+      "price": 190,
+      "image": "/img/hotel19.jpeg",
+      "description": "El Hotel Skyline ofrece vistas al horizonte de la ciudad. Nuestra ubicación es ideal para explorar la vida urbana y la cultura local."
+    },
+    {
+      "id": 20,
+      "name": "Hotel Lakeside",
+      "stars": 4,
+      "price": 350,
+      "image": "/img/hotel20.jpeg",
+      "description": "El Hotel Lakeside se encuentra junto a un hermoso lago. Disfruta de la tranquilidad y las actividades acuáticas en nuestro hotel de 4 estrellas."
+    }
+  ]
+}
